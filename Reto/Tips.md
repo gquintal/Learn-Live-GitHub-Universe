@@ -57,10 +57,12 @@ Cristian Rincón [@cristian-rincon](github.com/cristian-rincon)
 > Utiliza tablas para estructurar y presentar información de manera clara.
 > Aquí tienes un ejemplo de cómo crear una tabla en Markdown:
 
+```md
 |  Encabezado 1  |  Encabezado 2  |  Encabezado 3  |
 | -------------- | -------------- | -------------- |
 | Fila 1 Col 1   | Fila 1 Col 2   | Fila 1 Col 3   |
 | Fila 2 Col 1   | Fila 2 Col 2   | Fila 2 Col 3   |
+```
 =======
 Jose Vilchez (_@jcarlos5_)
 
